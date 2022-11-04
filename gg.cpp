@@ -318,6 +318,5 @@ public:
 int main()
 {
     gg();
-    //hhlololol
-    //asfasf
+    sout("hhh");
 }
