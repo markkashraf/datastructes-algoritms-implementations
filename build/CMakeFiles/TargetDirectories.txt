@@ -1,3 +1,3 @@
-C:/Users/Administrator/CPP Code/cmake-build-debug/CMakeFiles/CPP_Code.dir
-C:/Users/Administrator/CPP Code/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/CPP Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Administrator/CPP Code/build/CMakeFiles/CPP_Code.dir
+C:/Users/Administrator/CPP Code/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/CPP Code/build/CMakeFiles/rebuild_cache.dir

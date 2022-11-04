@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Administrator/CPP Code/cmake-build-debug"
+			"value" : "c:/Users/Administrator/CPP Code/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "23"
+			"value" : "24"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -91,7 +91,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "3"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -103,7 +103,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/bin/cmake.exe"
+			"value" : "C:/Program Files/CMake/bin/cmake.exe"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/bin/cpack.exe"
+			"value" : "C:/Program Files/CMake/bin/cpack.exe"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/bin/ctest.exe"
+			"value" : "C:/Program Files/CMake/bin/ctest.exe"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -142,7 +142,7 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/g++.exe"
 		},
 		{
@@ -286,7 +286,7 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "FILEPATH",
+			"type" : "STRING",
 			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/gcc.exe"
 		},
 		{
@@ -434,6 +434,18 @@
 			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/dlltool.exe"
 		},
 		{
+			"name" : "CMAKE_EDIT_COMMAND",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to cache edit program executable."
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "C:/Program Files/CMake/bin/cmake-gui.exe"
+		},
+		{
 			"name" : "CMAKE_EXECUTABLE_FORMAT",
 			"properties" : 
 			[
@@ -539,7 +551,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : ""
+			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_EXTRA_GENERATOR",
@@ -552,6 +564,18 @@
 			],
 			"type" : "INTERNAL",
 			"value" : ""
+		},
+		{
+			"name" : "CMAKE_FIND_PACKAGE_REDIRECTS_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake."
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/Administrator/CPP Code/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -663,7 +687,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/ninja/win/ninja.exe"
+			"value" : "C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/ninja/win/ninja.exe"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1003,7 +1027,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files/JetBrains/CLion 2022.2.4/bin/cmake/win/share/cmake-3.23"
+			"value" : "C:/Program Files/CMake/share/cmake-3.24"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -1099,7 +1123,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "NO"
+			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_SKIP_RPATH",
@@ -1115,7 +1139,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "NO"
+			"value" : "OFF"
 		},
 		{
 			"name" : "CMAKE_STATIC_LINKER_FLAGS",
@@ -1227,7 +1251,7 @@
 				}
 			],
 			"type" : "BOOL",
-			"value" : "FALSE"
+			"value" : "OFF"
 		},
 		{
 			"name" : "CPP_Code_BINARY_DIR",
@@ -1239,7 +1263,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Administrator/CPP Code/cmake-build-debug"
+			"value" : "C:/Users/Administrator/CPP Code/build"
 		},
 		{
 			"name" : "CPP_Code_IS_TOP_LEVEL",
@@ -1264,6 +1288,18 @@
 			],
 			"type" : "STATIC",
 			"value" : "C:/Users/Administrator/CPP Code"
+		},
+		{
+			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "linker supports push/pop state"
+				}
+			],
+			"type" : "INTERNAL",
+			"value" : "TRUE"
 		}
 	],
 	"kind" : "cache",

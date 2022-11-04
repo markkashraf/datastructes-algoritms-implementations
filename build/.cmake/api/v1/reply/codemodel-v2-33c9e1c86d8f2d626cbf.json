@@ -49,7 +49,7 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/Administrator/CPP Code/cmake-build-debug",
+		"build" : "C:/Users/Administrator/CPP Code/build",
 		"source" : "C:/Users/Administrator/CPP Code"
 	},
 	"version" : 
